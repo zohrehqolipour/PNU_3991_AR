@@ -6,7 +6,7 @@
 + [حساب گیت هاب](https://github.com/zohrehqolipour)
 + [آدرس رزومه](https://zohrehqolipour.github.io/rezome/)
 + [sop](https://zohrehqolipour.github.io/sop/)
-
++ [پایان نامه](https://www.sololearn.com/Certificate/1024-20670340/jpg)
 
 -------------------
 ## ترم مهر ماه 1399
